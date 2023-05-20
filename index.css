@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20210720/pngtree-black-thin-line-stereo-business-background-image_750710.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pas{
+color: white;
+
+}
+
+.post{
+    justify-content: center;
+}
